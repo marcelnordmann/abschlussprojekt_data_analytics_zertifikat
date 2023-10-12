@@ -25,4 +25,4 @@ Im Anschluss kann in den Diagrammen gezoomt und gescrollt werden. Außerdem kann
 
 # Zukunft dieses Projektes
 Wie oben bereits erwähnt, enthält das letzte Diagramm Ansatzpunkte für weitere Analysen. Diese könnten im Hinblick von Thema 1 weiter verfolgt und grafisch untersucht werden. Außerdem gibt es zu Beginn der Datei kiva_EDA_und_Dashboard.ipynb einen Überblick über zusätzliche Ideen und Fragestellungen, die weitere Themen bilden und ebenfalls untersucht werden könnten.<br>
-Ich bin nicht sicher, ob etwas davon passieren wird oder mein Fokus sich auf die Auswertung anderer Datensätze richten wird."
+Ich bin nicht sicher, ob etwas davon passieren wird oder mein Fokus sich auf die Auswertung anderer Datensätze richten wird.
