@@ -12,15 +12,10 @@ Der Code besteht aus 3 Jupyter Notebook Dateien:
 Hinweis: Dieses Projekt ist im Zuge des Data Analytics Kurses von alfatraining als Abschlussprojekt entstanden.
 
 # Genutzte Bibliotheken
-Der Code ist komplett Python basiert und in Jupyter Notebook geschrieben. Zusätzlich wurden folgende Bibliotheken genutzt:<br>
-- pandas
-- plotly_express
-- dash
-- IPython.display
-- warnings
+Der Code ist komplett Python (3.11.3) basiert und in Jupyter Notebook (6.5.4) geschrieben. Die genutzten Bibliotheken und deren Versionen können der Datei requirements.txt entnommen werden.
 
 # Benutzung
-Kopiere die .zip Datei und die drei Jupyter Notebook Dateien an einen Ort. Entpacke die .zip Datei, sodass die csv-Datei direkt an diesem Ort liegt. Installiere ggf. die oben aufgeführten Bibliotheken. Führe jetzt den Code von kiva_Preparation.ipynb Zelle für Zelle von oben nach unten aus. Anschließend führe den Code von kiva_EDA_und_Dashboard.ipynb ebenfalls Zelle für Zelle von oben nach unten aus.<br>
+Installiere ggf. die oben aufgeführten Versionen und Bibliotheken. Führe jetzt den Code von kiva_Preparation.ipynb Zelle für Zelle von oben nach unten aus. Anschließend führe den Code von kiva_EDA_und_Dashboard.ipynb ebenfalls Zelle für Zelle von oben nach unten aus.<br>
 Im Anschluss kann in den Diagrammen gezoomt und gescrollt werden. Außerdem kann oben links im Dashboard der Sichtbereich der Karte in einer Auswahlliste manuell eingestellt werden. Hinweis: Das Dashboard öffnet sich in einem neun Browser Tab! Wenn das nicht der Fall ist, dann kann ganz unten in der kiva_EDA_und_Dashboard Datei ein Link dazu gefunden werden.
 
 # Zukunft dieses Projektes
